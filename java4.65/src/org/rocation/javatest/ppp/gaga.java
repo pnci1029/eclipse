@@ -5,7 +5,7 @@ class hoho{
 public class gaga {
 
 	public static void main(String[] args) {
-			System.out.println("heiaaa");
+			System.out.println("hei111aaa");
 	}
 
 }
