@@ -1,6 +1,6 @@
 class test{
 	public void aaa() {
-		
+		  
 	}
 }
 public class asdasda {
