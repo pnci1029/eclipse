@@ -31,7 +31,7 @@ class thanos extends hero{
 		super(name, HP);
 	}
 }
-public class hp11 {
+public class hp11_thorvsthanos_random {
 
 	public static void main(String[] args) {
 		thor t = new thor("≈‰∏£", 120);
