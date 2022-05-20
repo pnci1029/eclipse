@@ -12,7 +12,7 @@ class ramen{
 		return String.format("%s의 가격: %d",this.name, this.price);
 	}
 }
-public class hp15 {
+public class hp15_arraylist_veryimport {
 	public static void main(String[] args) {
 		ramen shin = new ramen("신라면", 500);
 		ramen jin = new ramen("진라면",601);
