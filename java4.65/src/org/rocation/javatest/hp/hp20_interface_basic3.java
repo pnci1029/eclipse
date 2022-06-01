@@ -31,7 +31,7 @@ class rocket extends flyable{
 		System.out.printf("[%s]가 날아갑니다.",this.name);
 	}
 }
-public class hp20 {
+public class hp20_interface_basic3 {
 
 	public static void main(String[] args) {
 		flyable b = new bird("새");
